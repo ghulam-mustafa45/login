@@ -10,7 +10,7 @@ export default function Home() {
    <div className='mt-16 bg-white rounded-t-md rounded-b-md w-96 pl-9'>
     <input className=' outline-none border-b pl-2 pt-8 pb-2 mt-4 text-sm' type="text" placeholder='Login Name  '  /><hr />
     <input className='pt-8 pb-2 pl-2 mt-3 text-sm' type="password" placeholder='passwords' /><hr />
-    <a className=' text-blue-400  text-xs font-bold mt-5 inline-block ' href="#"> Forgot Passwords ?</a>
+    <a className=' text-blue-400  text-xs font-bold mt-5 inline-block ' href="#"> Forgot Password ?</a>
     <button className='bg-gradient-to-r from-cyan-300 to-blue-700 mb-14 text-white font-sans  hover:opacity-80 font-medium text-lg shadow-cyan-500/50 rounded border-s mt-5 w-11/12 pr-7 pl-7 pt-2 pb-2'> LOGIN</button>
     <p className='w-11/12 text-center border-b-2 leading-{0.1em} text-slate-500 text-xs m'><span>Or Login With</span></p><br />
    
